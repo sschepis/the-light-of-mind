@@ -213,7 +213,6 @@ const Book = () => {
         {book.chapters.map((chapter, index) => (
           <Chapter key={index} chapter={chapter} chapters={book.chapters} />
         ))}
-        <NewsletterSignup />
       </div>
     </>
   );
