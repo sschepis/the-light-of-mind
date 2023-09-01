@@ -2,7 +2,7 @@
 const book = {
     "title": "The Light of Mind - Collected Essays on the Nature of Mind",
     "subtitle": "By Sebastian Schepis",
-    "author": "Sebastian Schepis",
+    "author": "For a good friend",
     "coverImageUrl": "/cover.jpg",
     "toc": {
         "title": "Table of Contents",
@@ -33,11 +33,8 @@ const book = {
                     "text": "But that's not what this essay's about. Instead, I want to examine the concept of Heaven itself. It sounds really nice, but is it, really? Let's run some thought experiments. Heaven is supposed to be an idealized version of this world, somehow. The conception of heaven is one of a place where everything is better to such a degree that somehow any less-than-ideal feeling is not felt - or is at least transmuted into ideal feeling."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "2.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "1.png",
                     "text": "But what does that mean? Will everything taste better? Will your happiness be ten times louder and your sadness gone?"
                 },
                 {
@@ -49,11 +46,8 @@ const book = {
                     "text": "If being in heaven requires feeling or not feeling certain things, does that mean that you'll still feel like 'you' in heaven?"
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "3.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "3.png",
                     "text": "If your less-than-glorious emotions are barred from entering, are you unable to feel anything but happy feelings in heaven?"
                 },
                 {
@@ -65,11 +59,8 @@ const book = {
                     "text": "In fact, I'm wary. Too good to be true with no problems, ever? Scam! Smiling happy people from New York, Boston and Chicago loving each other's baseball teams? Fake news! Scary, too."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "4.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "4.png",
                     "text": "Sounds like you can only think in certain ways in heaven or else you are not welcome there, because heaven is heaven and it's got to be perfect. Does that mean that everybody has to like the same things and be happy and feel good all the time while in heaven? Are there conflicts in heaven?"
                 },
                 {
@@ -81,11 +72,8 @@ const book = {
                     "text": "What does that demand for your identity? After all, much of what we believe ourselves to be in this world stems from the experiences we've had that are less than happy."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "5.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "5.png",
                     "text": "Does heaven require us not to be ourselves and require us to relinquish these parts of ourselves? Is this all related somehow to the common requirement of having to be good in order to gain entry? What is good? And who is going?"
                 },
                 {
@@ -97,11 +85,8 @@ const book = {
                     "text": "So if heaven isn't heaven, does heaven exist?"
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "6.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "6.png",
                     "text": "If so, what is it? Where is it? How do we get there?"
                 },
                 {
@@ -120,11 +105,8 @@ const book = {
             "subtitle": "We're funny creatures.",
             "content": [
                 {
-                    "type": "image",
-                    "imageUrl": "8.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "8.png",
                     "text": "We have obtained the capability to examine reality at its most basic physical level."
                 },
                 {
@@ -136,11 +118,8 @@ const book = {
                     "text": "Nothing exists in isolation, or disconnected from each other. At the quantum level, entanglement literally means that the state of your atoms right now is being potentially influenced by - and influencing other particles - which could themselves be existing in the past or in the future."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "9.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "9.png",
                     "text": "That's the reality!"
                 },
                 {
@@ -152,11 +131,8 @@ const book = {
                     "text": "Yet - the story the world tells us about ourselves - and consequently the story we tell ourselves and everyone else, has been conclusively proven, beyond the shadow of a doubt, in a lab, to be false."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "10.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "10.png",
                     "text": "It is a lie. It flies directly against all scientific evidence."
                 },
                 {
@@ -168,11 +144,8 @@ const book = {
                     "text": "Turns out that this portion of information comprises the bulk of the information you're receiving."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "11.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "11.png",
                     "text": "If you don't fundamentally re-orient your perspective to what is real and what is possible, how can you possibly become it, experience it, feel it, integrate it into awareness?"
                 },
                 {
@@ -181,12 +154,9 @@ const book = {
                 },
                 {
                     "type": "paragraph",
-                    "text": "And why not? It's what you ARE. it's a scientific fact."
-                },
-                {
-                    "type": "image",
                     "imageUrl": "12.png",
-                },
+                    "text": "And why not? It's what you ARE. it's a scientific fact."
+                }
             ]
         },
         {
@@ -195,11 +165,8 @@ const book = {
             "subtitle": "I've always believed in reincarnation.",
             "content": [
                 {
-                    "type": "image",
-                    "imageUrl": "13.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "13.png",
                     "text": "I've always believed in reincarnation. Partly because it just intuitively felt right, and partly because of a number of memories that are as though they have always been there."
                 },
                 {
@@ -211,11 +178,8 @@ const book = {
                     "text": "I don't think any more that it's like this. I think there's far more going on than that, and I think consciousness is orthogonal to perception. What do I mean by that?"
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "14.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "14.png",
                     "text": "I mean that even the concept of the linearly evolving multi-life being is illusory. This is because the entire concept is immediately recognized as a wholly imaginary construct when perceived from the perspective of 'what you actually are' as boundless non-separate awareness."
                 },
                 {
@@ -227,11 +191,8 @@ const book = {
                     "text": "We have lived every life, together, forever, already. Your past lives are my past lives, because we aren't separate consciousness, and everything has already occurred and will occur."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "15.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "15.png",
                     "text": "This means that there is no bondage."
                 },
                 {
@@ -243,11 +204,8 @@ const book = {
                     "text": "No past lives,"
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "16.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "16.png",
                     "text": "No limitation,"
                 },
                 {
@@ -259,11 +217,8 @@ const book = {
                     "text": "No beginnings or endings,"
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "17.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "17.png",
                     "text": "No separation,"
                 },
                 {
@@ -275,11 +230,8 @@ const book = {
                     "text": "No place devoid of Consciousness."
                 },
                 {
-                    "type": "image",
-                    "imageUrl": "18.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "18.png",
                     "text": "All of these things are concepts created from the position of self-identification and are only real from that position."
                 },
                 {
@@ -288,12 +240,9 @@ const book = {
                 },
                 {
                     "type": "paragraph",
-                    "text": "There is no real limitation or seriousness to any of it, and we are already free and always have been."
-                },
-                {
-                    "type": "image",
                     "imageUrl": "a1.png",
-                },
+                    "text": "There is no real limitation or seriousness to any of it, and we are already free and always have been."
+                }
             ]
         },
         {
@@ -302,11 +251,8 @@ const book = {
             "subtitle": "When I was 18 years old I met someone who was a master of life.",
             "content": [
                 {
-                    "type": "image",
-                    "imageUrl": "a2.png",
-                },
-                {
                     "type": "paragraph",
+                    "imageUrl": "a2.png",
                     "text": "When I was 18 years old I met someone who was a master of life. He taught me how to see, how to live, and how to be. He taught me things I'm still unpacking today - things I'm profoundly grateful for. He gave me a manual for my own mind."
                 },
                 {
@@ -323,6 +269,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a3.png",
                     "text": "The heaviness of you - the part that has become chronically contracted into what you associate as the shape and inner boundaries of your limitations in thought and feeling - is undone."
                 },
                 {
@@ -346,6 +293,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "a4.png",
                     "text": "Channeling is a practice that's traditionally understood to mean allowing a spirit to come through a person in order to communicate. This type of channeling in truth is the least sophisticated type in terms of effect and purpose."
                 },
                 {
@@ -362,6 +310,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a5.png",
                     "text": "Natural intelligence is more than a state of Flow - it is the greater self acting and thinking through you. It is you no longer believing yourself to be a person, but a bridge, acting as directed."
                 },
                 {
@@ -378,6 +327,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a6.png",
                     "text": "Then, love and act. Natural intelligence will do the rest."
                 }
             ]
@@ -389,6 +339,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "a7.png",
                     "text": "Anxiety is the feeling you get when you project your mind into the future, to attempt to fix problems that you can only fix with your body."
                 },
                 {
@@ -405,6 +356,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a8.png",
                     "text": "Anxiety is the feeling you get when you project your mind into the future, to attempt to fix problems that you can only fix in your body."
                 },
                 {
@@ -421,6 +373,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a9.png",
                     "text": "You have all the means to handle them anyways, right here, right now."
                 }
             ]
@@ -432,6 +385,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "a10.png",
                     "text": "What are you? Have you ever considered the shape or structure of you? Have you ever thought about what your thoughts are shaped like?"
                 },
                 {
@@ -448,6 +402,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a11.png",
                     "text": "That's a good start, but it doesn't account for 'being' - awareness of existing. And so we can add a second component - existence - the 'am' part."
                 },
                 {
@@ -464,6 +419,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a12.png",
                     "text": "It is interesting to note that this third element is also required to describe even the simplest structure in geometry. Three points are required to describe a plane, as any two points can be described in relation to a third."
                 },
                 {
@@ -480,6 +436,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a13.png",
                     "text": "This concept of 'one that is three' can be found in many religions, because it is the last stop found by all seekers before the seeker disappears for good."
                 },
                 {
@@ -496,6 +453,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a14.png",
                     "text": "Eventually, it's just you, the light, and one remaining particle. So what happens when that one is consumed? Can anything at all be said at that moment about your distance to the light?"
                 },
                 {
@@ -519,6 +477,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "a15.png",
                     "text": "My dear friend, I would like to make a suggestion to you. It is this: you listen to your mind entirely too much, believing far too many things it says."
                 },
                 {
@@ -535,6 +494,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a16.png",
                     "text": "If you hear nonsense about being a 'person' - REMEMBER THIS: DO NOT LISTEN."
                 },
                 {
@@ -551,6 +511,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a17.png",
                     "text": "Your belief that you are a 'person' subject to 'destiny' is PATENTLY RIDICULOUS. You are no such thing. No such requirement exists. You made the whole thing up, God-knows how long ago."
                 },
                 {
@@ -563,6 +524,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a18.png",
                     "text": "You simply, always and forever stand in RADIANCE."
                 },
                 {
@@ -575,6 +537,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a19.png",
                     "text": "Understand this point and suddenly, Enlightenment becomes the ONLY thing you ever 'had', and even that gets thrown away because it is too much identity to bear."
                 }
             ]
@@ -586,6 +549,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "a20.png",
                     "text": "Simply follow this five-step plan:"
                 },
                 {
@@ -602,6 +566,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a21.png",
                     "text": "4. Don't be a dick to eternity. Treat all things the way you want all things to treat you. The ant sees the person as the Universe. But the person sees the ant. Just sayin'."
                 },
                 {
@@ -618,6 +583,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a22.png",
                     "text": "Only the pain of life is necessary suffering, but it's entirely up to you what type of suffering you want to experience."
                 },
                 {
@@ -633,6 +599,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "a23.png",
                     "text": "Have you ever noticed how the world is a manifestation of your inner life? Have you ever noticed that when you make a great change in your life, you can see the results in the world?"
                 },
                 {
@@ -645,6 +612,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a24.png",
                     "text": "It's so SIMPLE. All you have to do to CHANGE THE WORLD is to CHANGE YOURSELF."
                 },
                 {
@@ -657,6 +625,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "a25.png",
                     "text": "We spiritual types have this idea here in this world that we exist as defined, specific entities whose individuality somehow travels through space-time between lives. This is an illusion generated by the perspective of embodied objective consciousness."
                 },
                 {
@@ -712,30 +681,37 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "s1.jpg",
                     "text": "Shiva is known by many names, including: Viswanatha (lord of the universe), Mahadeva, Maheshvara, Shankara, Shambhu, Rudra, Hara, Nataraja."
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "s2.jpg",
                     "text": "Lord Shiva is one of the three principal Hindu deities - the other being Brahma (Lord of Creation) and Vishnu (Lord of Preservation)."
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "s3.jpg",
                     "text": "Shiva is the Lord of Dissolution. Shiva is the force of time. Shiva sits in meditation and rests in the Stillness of Being, immovable by the appearance and disappearance of the Universe."
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "s4.jpg",
                     "text": "Shiva is more than just a mythological deity."
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "s5.jpg",
                     "text": "He is the Adi-Guru - the original, primordial guru who brought the wisdom-teachings to this world. He is Adi Shankara, the primordial teacher and teaching of Truth."
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "s6.jpg",
                     "text": "He is also twelve feet tall and blue. He was blue because his renunciation was so great that he was able to transmute the deadliest poison. All it did was make him blue. Because he is the original bad-ass."
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "s7.jpg",
                     "text": "Lord Shiva, I love you, you are my ideal, my vision of the transcendental, my model of renunciation. These pictures are my offering to you. I hope you like them."
                 }
             ]
@@ -747,6 +723,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
+                    "imageUrl": "e3.jpg",
                     "text": "With open minds we sat to seek, As inner realms began to speak."
                 },
                 {
@@ -763,6 +740,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "e1.jpg",
                     "text": "With laughter fueling tiny cars, We orbited beyond earthly bars."
                 },
                 {
@@ -779,6 +757,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "e1.jpg",
                     "text": "All rigid walls we gently stripped, As cosmic humor overflowed."
                 },
                 {
@@ -795,6 +774,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "imageUrl": "e4.jpg",
                     "text": "When words cannot capture the sights, May wisdom guide to clearer heights."
                 },
                 {
