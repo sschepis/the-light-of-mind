@@ -618,11 +618,14 @@ const book = {
                 {
                     "type": "paragraph",
                     "text": "I know it sounds like a cat poster, but it's Truth."
-                },
-                {
-                    "type": "paragraph",
-                    "text": "You've Never Not Been Everyone"
-                },
+                }
+            ]
+        },
+        {
+            "id": "youve_never_not_been_everyone",
+            "title": "You've Never Not Been Everyone",
+            "subtitle": "You've Never Not Been Everyone",
+            "content": [
                 {
                     "type": "paragraph",
                     "imageUrl": "a25.jpg",
@@ -777,10 +780,6 @@ const book = {
                 {
                     "type": "paragraph",
                     "imageUrl": "e4.png",
-                    "text": "When words cannot capture the sights, May wisdom guide to clearer heights."
-                },
-                {
-                    "type": "paragraph",
                     "text": "When words cannot capture the sights, May wisdom guide to clearer heights."
                 },
                 {
