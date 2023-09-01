@@ -17,13 +17,13 @@ const NewsletterSignup = ({ chapters }) => {
     <section className="newsletter">
       <header className="newsletter__header">
         <Parallax
-          bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + book.toc.imageUrl}
+          bgImage={'https://media.githubusercontent.com/media/sschepis/the-light-of-mind/main/public/images/' + book.toc.imageUrl}
           bgImageAlt="Sign up to get notified when the book is available."
           strength={200}
           style={{ height: '100%' }}
           className='newsletter__parallax'
         >
-          <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + book.toc.imageUrl} alt="" className="newsletter__image" />
+          <img src={'https://media.githubusercontent.com/media/sschepis/the-light-of-mind/main/public/images/' + book.toc.imageUrl} alt="" className="newsletter__image" />
         </Parallax>
         <div className="newsletter__header-content">
           <h1 className="newsletter__title">Get the book</h1>
@@ -72,13 +72,13 @@ const Chapter = ({ chapter, chapters }) => {
       <header className="ebook__cover">
         {chapter.content.find(item => item.type === 'cover') && (
           <Parallax
-            bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapter.content.find(item => item.type === 'cover').imageUrl}
+            bgImage={'https://media.githubusercontent.com/media/sschepis/the-light-of-mind/main/public/images/' + chapter.content.find(item => item.type === 'cover').imageUrl}
             bgImageAlt=''
             strength={200}
             style={{ height: '100%', width: '100%' }}
             className='ebook__parallax'
           >
-          <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapter.content.find(item => item.type === 'cover').imageUrl} alt="" className="ebook__image" />
+          <img src={'https://media.githubusercontent.com/media/sschepis/the-light-of-mind/main/public/images/' + chapter.content.find(item => item.type === 'cover').imageUrl} alt="" className="ebook__image" />
         </Parallax> )}
 
         <div className="ebook__header">
@@ -96,7 +96,7 @@ const Chapter = ({ chapter, chapters }) => {
         <main className="ebook__content">
           {chapter.content.map((item, index) => {
             if (item.type === 'paragraph') {
-              return <p key={index}>{item.imageUrl && (<img key={index} className="ebook__media" src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + item.imageUrl} alt={item.alt} />)}{item.text}</p>;
+              return <p key={index}>{item.imageUrl && (<img key={index} className="ebook__media" src={'https://media.githubusercontent.com/media/sschepis/the-light-of-mind/main/public/images/' + item.imageUrl} alt={item.alt} />)}{item.text}</p>;
             } else {
               return null;
             }
@@ -112,13 +112,13 @@ const TOC = ({ chapters }) => {
     <section className="toc">
       <header className="toc__header">
         <Parallax
-          bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapters[0].content.find(item => item.type === 'image').imageUrl}
+          bgImage={'https://media.githubusercontent.com/media/sschepis/the-light-of-mind/main/public/images/' + chapters[0].content.find(item => item.type === 'image').imageUrl}
           bgImageAlt="Table of Contents"
           strength={200}
           style={{ height: '100%' }}
           className='toc__parallax'
         >
-          {chapters[0].content.find(item => item.type === 'image').imageUrl && <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapters[0].content.find(item => item.type === 'image').imageUrl} alt="" className="toc__image" />}
+          {chapters[0].content.find(item => item.type === 'image').imageUrl && <img src={'https://media.githubusercontent.com/media/sschepis/the-light-of-mind/main/public/images/' + chapters[0].content.find(item => item.type === 'image').imageUrl} alt="" className="toc__image" />}
         </Parallax>
         <div className="toc__header-content">
           <h1 className="toc__title">Table of Contents</h1>
