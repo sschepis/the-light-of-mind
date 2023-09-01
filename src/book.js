@@ -2,7 +2,7 @@
 const book = {
     "title": "The Light of Mind - Collected Essays on the Nature of Mind",
     "subtitle": "By Sebastian Schepis",
-    "author": "For a good friend",
+    "author": "For a dear friend",
     "coverImageUrl": "/cover.jpg",
     "toc": {
         "title": "Table of Contents",
