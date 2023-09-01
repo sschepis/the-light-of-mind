@@ -1,0 +1,114 @@
+body {
+  background-color: #222831;
+  color: #eeeeee;
+}
+
+a {
+  text-decoration: none;
+  color: #d3d3d3;
+}
+
+a:hover {
+  color: #00adb5;
+}
+
+.error {
+  color: #f38181;
+}
+
+.success {
+  color: #fdca40;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-menu li {
+  margin: 0 1rem;
+}
+
+.header-menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.header-menu li a:hover {
+  color: #ccc;
+}
+
+footer {
+  background-color: #222831;
+  color: #eeeeee;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+footer h4 {
+  color: #00adb5;
+}
+
+footer li {
+  list-style-type: none;
+  margin-bottom: 0.5rem;
+}
+
+.search input[type="text"] {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #00adb5;
+}
+
+.search button {
+  background-color: #00adb5;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.search button:hover {
+  background-color: #00a4a1;
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form input[type="password"],
+.form textarea {
+  display: block;
+  width: 100%;
+  background-color: #333;
+  border: 1px solid #00adb5;
+  color: #fff;
+}
+
+.form button[type="submit"] {
+  background-color: #00adb5;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.form button[type="submit"]:hover {
+  background-color: #00a4a1;
+}
