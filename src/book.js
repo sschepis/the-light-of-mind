@@ -252,7 +252,7 @@ const book = {
             "content": [
                 {
                     "type": "paragraph",
-                    "imageUrl": "a2.png",
+                    "imageUrl": "z1.png",
                     "text": "When I was 18 years old I met someone who was a master of life. He taught me how to see, how to live, and how to be. He taught me things I'm still unpacking today - things I'm profoundly grateful for. He gave me a manual for my own mind."
                 },
                 {
